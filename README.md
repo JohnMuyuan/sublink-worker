@@ -17,7 +17,7 @@
     </a>
   </p>
   
-  <p><a href="/docs/README_CN.md">中文文档</a></p>
+  <p><a href="/docs/README_CN.md">Chinese documentation</a></p>
 </div>
 
 ## 🚀 Quick Start
